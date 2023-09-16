@@ -1,6 +1,6 @@
 
 
-#  Project for Python and Bash learners
+##  Project for Python and Bash learners
 
 
 * create powerpoint slides with pandoc
@@ -12,10 +12,10 @@
 * use subprocess module 
 
 
-#  Проект для учеников Python и Bash
+##  Проект для изучающих Python и Bash
 
 
-* создавать слайды с поддержкой pandoc
+* создавать слайды с использованием pandoc
 
 * читать файл данных cvs
 
